@@ -87,6 +87,7 @@ footer {
     background-color: var(--cor01);
     color: var(--cor02);
     text-align: center;
+    line-height: 1.3em;
     padding: 15px;
 }
 
